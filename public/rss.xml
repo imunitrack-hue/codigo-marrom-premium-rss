@@ -1,28 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
+<item>
+  <title>Episódio Extra #1</title>
 
-    <title>Código Marrom Premium</title>
+  <description>Conteúdo exclusivo do clube</description>
 
-    <link>https://codigo-marrom-premium-rss.vercel.app</link>
+  <enclosure
+    url="https://pub-439548157297459f82f55b31b970e1d4.r2.dev/bastidoresparte1Transito.mp3"
+    type="audio/mpeg"
+    length="0" />
 
-    <description>Episódios exclusivos para assinantes</description>
+  <guid>https://pub-439548157297459f82f55b31b970e1d4.r2.dev/bastidoresparte1Transito.mp3</guid>
 
-    <item>
-      <title>Episódio Extra #1</title>
-
-      <description>Conteúdo exclusivo do clube</description>
-
-      <enclosure
-        url="https://pub-439548157297459f82f55b31b970e1d4.r2.dev/bastidoresparte1Transito.mp3"
-        type="audio/mpeg"
-        length="0" />
-
-      <guid>
-        https://pub-439548157297459f82f55b31b970e1d4.r2.dev/bastidoresparte1Transito.mp3
-      </guid>
-
-    </item>
-
-  </channel>
-</rss>
+</item>
